@@ -1,0 +1,73 @@
+.App{
+  background : #f0f2f5  ;
+  height : 100vh
+}
+.facebookimg{
+  width : 20vw;
+  height : 20vh;
+  
+  margin-top : 240px;
+  margin-left: 150px;
+
+}
+h1{
+  font-size :50px;
+  color :#1877f2 ;
+}
+h2{
+  font-size :24px;
+}
+.container{
+  background : white;
+  height: 350px;
+  width: 450px;
+  margin-left: 1100px;
+  margin-top: -250px;
+  border-radius:10px;
+  
+
+.login{
+ 
+ 
+  margin-left: 1000px;
+  margin-top: -120px;
+
+}
+}
+
+
+
+.login input{
+  margin-top: 10px;
+  margin-left: 20px;
+  width : 90%;
+  height : 50px;
+
+}
+button{
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius:10px;
+  font-size: 25px;
+  background-color :#1877f2;
+  width : 90%;
+  height : 50px;
+  color : white;
+}
+p{
+  margin-left: 170px;
+  color: #1877f2;
+  background-color: white;
+}
+  
+.ctr button{
+  margin-left: 50px;
+  background-color:green;
+  width : 350px;
+}
+
+
+
+
+
+
